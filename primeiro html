@@ -1,11 +1,42 @@
 <!DOCTYPE html>
 <html>
+    <style>
+        img{
+            margin:0 auto;
+            display:block;
+        }
+    </style>
     <head>
-        <title> Título da Página </title>
+        <title> Receitas do Luquinhas </title>
     </head>
     <body>
 
-        <h1> Este é um título</h1>
-        <p>Este é um parágrafo.</p>
+        <h1 style="text-align:center;"> Frango à Parmegiana</h1>
+        
+        <img src="C:\Users\lucas\OneDrive\Imagens\fg.jpg" width="500" height="300">
+            <p style="text-align:center;" ><strong>Ingredientes:</strong></p>
+            <p style="text-align:center;"> 6 filés de frango</p>
+
+            <p style="text-align:center;">Sal e alho espremido</p>
+            
+            <p style="text-align:center;">1 xícara (chá) de farinha de trigo</p>
+            
+            <p style="text-align:center;">4 ovos</p>
+            
+            <p style="text-align:center;">1 tablete de caldo de galinha diluído em 250 ml de leite</p>
+            
+            <p style="text-align:center;">1/2 pacote de farinha de rosca (250 g)</p>
+            
+            <p style="text-align:center;">300 ml de óleo</p>
+            
+            <p style="text-align:center;">1 litro de molho de tomate</p>
+            
+            <p style="text-align:center;">1 pacote de parmesão ralado (50 g)</p>
+            
+            <p style="text-align:center;">150 g de muçarela fatiada</p>
+
+            <p style="text-align:center"><strong>Sirva com: </strong></p>
+            <img src="C:\Users\lucas\OneDrive\Imagens\im.png" width="800" height="450">
+
     </body>
 </html>
